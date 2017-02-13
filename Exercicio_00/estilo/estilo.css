@@ -1,0 +1,41 @@
+
+
+body{
+	background-color: white;
+	color: red;
+}
+
+font {
+	
+	color:"#cc33ff";
+}
+	
+tr, td , img {
+	height : 150px;
+	width : 150px;
+}
+
+.footer {
+	position:absolute;
+	bottom:0;
+	width:100%;
+	color:blue;
+}
+
+table {
+	border-collapse: collapse;
+	border: 1px solid black;
+	width: 100%;
+	color:"#cc33ff";
+}
+
+th, td {
+     padding: 15px;
+    text-align: center;
+	border-bottom: 1px solid #ddd;
+	color:"#cc33ff";
+}
+th {
+     height: 160px;
+	text-align: center;
+} 
